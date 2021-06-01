@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saggy2001
+- 👋 Hi, I’m Sagar
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on projects of Web Development and also for Hackathons
